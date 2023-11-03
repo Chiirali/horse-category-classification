@@ -7,6 +7,7 @@ In this project I'm attempting to classify horses into three basic categories: p
 - [Sample Data](https://github.com/Chiirali/horse-category-classification/tree/main/data)
 - [01 Data Exploration](https://github.com/Chiirali/horse-category-classification/blob/main/01_hc_data_exploration.ipynb)
 - [02 Overfitting on Purpose](https://github.com/Chiirali/horse-category-classification/blob/main/02_hc_overfit.ipynb)
+- [03 Regularization](https://github.com/Chiirali/horse-category-classification/blob/main/03_hc_regularize.ipynb)
 
 
 ## Data Collection
